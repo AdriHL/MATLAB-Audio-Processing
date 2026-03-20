@@ -1,0 +1,18 @@
+# ==========================================
+# Archivos ignorados para proyectos MATLAB
+# ==========================================
+
+# Archivos de autoguardado y datos de MATLAB
+*.asv
+*.mat
+
+# Archivos de audio (Evitar subir archivos pesados o con copyright)
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.m4a
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
